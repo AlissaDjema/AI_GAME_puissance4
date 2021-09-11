@@ -5,4 +5,4 @@ Programming of the game "Connect 4" against an artificial intelligence in C ++, 
 Programmation du jeu "Le puissance 4" contre une inteligence artificielle en C++, et implementation du jeu sur une interface graphique SDL.
 
 
-![alt text](file:///Users/alissadjema/Downloads/Puissance4_01.svg) 
+![alt text](https://fr.wikipedia.org/wiki/Puissance_4#/media/Fichier:Puissance4_01.svg) 
